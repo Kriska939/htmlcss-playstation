@@ -1,6 +1,5 @@
-.space {
-    height: 100px; 
-    border: 1px dashed black;
+#header-top {
+    background-color: black;
 }
 
 .bgc {
