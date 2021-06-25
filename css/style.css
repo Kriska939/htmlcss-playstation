@@ -58,5 +58,10 @@
     border-radius: 15px;
 }
 
+.fw-500 {
+    font-weight: 500;
+}
 
-
+.fs-40 {
+    font-size: 40px;
+}
