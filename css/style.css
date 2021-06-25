@@ -31,7 +31,32 @@
     align-self: center;
 }
 
-
 .bgc {
     background-color: green;
 }
+
+.btn-orange {
+    background-color: #cd3d0f;
+}
+
+#spacer {
+    height: 100px;
+}
+
+#hero-1 {
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+
+.h-600 {
+    height: 600px;
+}
+
+.br-15 {
+    border-radius: 15px;
+}
+
+
+
