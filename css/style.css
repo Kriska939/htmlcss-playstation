@@ -1,6 +1,36 @@
 #header-top {
     background-color: black;
+    max-height: 30px;
 }
+
+.bg-white {
+    background-color: white;
+}
+
+.btn-grey {
+    background-color: #363636;
+}
+
+.tiny-logo {
+    max-width: 100px;
+}
+
+.fa-chevron-down {
+    font-size: 11px;
+}
+
+.fw-navbar {
+    font-weight: 500;
+}
+
+.fa-search {
+    font-size: 20px;
+}
+
+.search-alignment {
+    align-self: center;
+}
+
 
 .bgc {
     background-color: green;
