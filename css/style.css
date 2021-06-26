@@ -7,6 +7,10 @@
     background-color: white;
 }
 
+.bg-grey {
+    background-color: #1f1f1f;
+}
+
 .btn-grey {
     background-color: #363636;
 }
@@ -60,6 +64,10 @@
 
 .fw-500 {
     font-weight: 500;
+}
+
+.fs-18 {
+    font-size: 18px;
 }
 
 .fs-40 {
