@@ -59,6 +59,13 @@
     background-repeat: no-repeat;
 }
 
+.border-blue {
+    border: 1px solid dodgerblue;
+    padding:2px;
+}
+
+
+
 .h-600 {
     height: 600px;
 }
@@ -129,15 +136,32 @@ footer ul li a {
 
 /* HOVER EFFECTS */
 
-#header-bottom .navbar-light .nav-link:hover {
+#header-bottom .navbar-light .nav-link:hover  {
 
     color: dodgerblue;
 
 }
+
+.btn:hover {
+    box-shadow: inset 0 0 0 2px white;
+}
+
+.special-hover-btn:hover {
+    box-shadow: inset 0 0 0 2px black;
+}
+
 
 .fa-search:hover {
     color: dodgerblue;
 }
+
+
+#games-icons img:hover {
+    transform:translateY(-10px);
+    transition-duration: 0.5s;
+}
+
+
 
 footer ul li a:hover {
     color: white;
