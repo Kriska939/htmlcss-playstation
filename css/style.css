@@ -107,6 +107,20 @@
     background-color: #161c3b;
 }
 
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+}
+
+footer ul li a:hover {
+    color: white;
+    text-decoration: underline;
+}
 
 
 /* MEDIA QUERIES */
