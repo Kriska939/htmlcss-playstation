@@ -37,6 +37,7 @@
 
 .fa-search {
     font-size: 20px;
+    color: #363636;
 }
 
 .search-alignment {
@@ -121,14 +122,28 @@ footer ul li a {
     font-size: 13px;
 }
 
+
+#copyright-text a {
+    color: white; 
+}
+
+/* HOVER EFFECTS */
+
+#header-bottom .navbar-light .nav-link:hover {
+
+    color: dodgerblue;
+
+}
+
+.fa-search:hover {
+    color: dodgerblue;
+}
+
 footer ul li a:hover {
     color: white;
     text-decoration: underline;
 }
 
-#copyright-text a {
-    color: white; 
-}
 
 
 /* MEDIA QUERIES */
