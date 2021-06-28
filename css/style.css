@@ -70,6 +70,10 @@
     font-weight: 500;
 }
 
+.fs-14 {
+    font-size: 14px;
+}
+
 .fs-16 {
     font-size: 16px;
 }
@@ -120,6 +124,10 @@ footer ul li a {
 footer ul li a:hover {
     color: white;
     text-decoration: underline;
+}
+
+#copyright-text a {
+    color: white; 
 }
 
 
