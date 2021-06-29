@@ -1,7 +1,4 @@
-#header-top {
-    background-color: black;
-    max-height: 30px;
-}
+/* GENERAL UTILITIES  */
 
 .index-one {
     z-index:1;
@@ -27,44 +24,9 @@
     background-color: #d9dadc;
 }
 
-.tiny-logo {
-    max-width: 100px;
-}
-
-.fa-chevron-down {
-    font-size: 11px;
-}
-
-.fa-search {
-    font-size: 20px;
-    color: #363636;
-}
-
-.search-alignment {
-    align-self: center;
-}
-
 .btn-orange {
     background-color: #cd3d0f;
 }
-
-#spacer {
-    height: 100px;
-}
-
-#hero-1 {
-    background-image: url("../img/jumbo-bg.png");
-    background-size: cover;
-    background-position-x: center;
-    background-repeat: no-repeat;
-}
-
-.border-blue {
-    border: 1px solid dodgerblue;
-    padding:2px;
-}
-
-
 
 .h-600 {
     height: 600px;
@@ -93,6 +55,48 @@
 .fs-40 {
     font-size: 40px;
 }
+
+/* SPECIFIC CSS */
+
+#header-top {
+    background-color: black;
+    max-height: 30px;
+}
+
+.tiny-logo {
+    max-width: 100px;
+}
+
+.fa-chevron-down {
+    font-size: 11px;
+}
+
+.fa-search {
+    font-size: 20px;
+    color: #363636;
+}
+
+.search-alignment {
+    align-self: center;
+}
+
+
+#spacer {
+    height: 100px;
+}
+
+#hero-1 {
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+
+.border-blue {
+    border: 1px solid dodgerblue;
+    padding:2px;
+}
+
 
 .blue-bar {
     height: 2px;
